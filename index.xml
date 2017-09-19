@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>cocina</title>
+<title>cocina o oo quesea</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/test1.xml</externallink>
 </item>
  
 <item>
@@ -13,10 +13,18 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/cocina2.xml</externallink>
 </item>
  
 <item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+ 
+ <item>
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
