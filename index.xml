@@ -5,47 +5,55 @@
 <thumbnail>https://i2.wp.com/marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png</thumbnail>
 <fanart>https://www.adslzone.net/app/uploads/2016/11/movistar-logo-2017.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/test1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/cinemovistar.xml</externallink>
 </item>
 
 <item>
-<title>Cine</title>
+<title>SERIES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/test1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/series.xml</externallink>
 </item>
  
 <item>
-<title>Documentales</title>
+<title>DEPORTES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/cocina2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/deportes.xml</externallink>
 </item>
  
 <item>
-<title>Deportes</title>
+<title>DOCUMENTALES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/documentales.xml</externallink>
 </item>
 
 <item>
-<title>Dibujos Animados</title>
+<title>INFANTILES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/infantiles.xml</externallink>
 </item>
  
  <item>
-<title>Musica</title>
+<title>MUSICA</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/musica.xml</externallink>
+</item>
+
+ <item>
+<title>GENERALISTAS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/generalistas.xml</externallink>
 </item>
 
  <item>
@@ -53,14 +61,14 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/noticias.xml</externallink>
 </item>
 
  <item>
-<title>Pelis adultos</title>
+<title>+ 18</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/mas18.xml</externallink>
 </item>
  
