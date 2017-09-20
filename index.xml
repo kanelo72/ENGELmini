@@ -3,15 +3,15 @@
 <item>
 <title>Cine movistar</title>
 <thumbnail>https://i2.wp.com/marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png</thumbnail>
-<fanart>https://www.adslzone.net/app/uploads/2016/11/movistar-logo-2017.jpg</fanart>
+<fanart>https://www.reasonwhy.es/sites/default/files/cine-estudio-palomitas-espana-salas-reasonwhy.esjpg_.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/cinemovistar.xml</externallink>
 </item>
 
 <item>
 <title>SERIES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png</thumbnail>
+<fanart>http://www.mundoplus.tv/concursos/movistar_series/imagenes/seriesmovistar.gif</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/series.xml</externallink>
 </item>
@@ -57,7 +57,7 @@
 </item>
 
  <item>
-<title>Noticias</title>
+<title>NOTICIAS</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
