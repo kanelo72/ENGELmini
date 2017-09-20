@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR red] Cambia a Canal #0[/COLOR]
+#EXTINF:2 tvg-logo="http://verdirectotv.tv/logos/canal-0.png",[COLOR lime] 1[/COLOR] [COLOR red]= Cambiar canal en Deco Engel[/COLOR]
 http://192.168.0.24:1988/7/0/0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR green]ver canal #0[/COLOR]
+#EXTINF:-1 tvg-logo="http://verdirectotv.tv/logos/canal-0.png",[COLOR lime] 2[/COLOR] [COLOR green]= Ver canal #0[/COLOR]
 http://192.168.0.24:1988/6/0/0
