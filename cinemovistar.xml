@@ -10,14 +10,14 @@
 <item>
 <title>02 MOVISTAR ESTRENOS HD </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_estrenos.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>03 MOVISTAR ESTRENOS </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_estrenos.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
@@ -31,41 +31,41 @@
 <item>
 <title>05 MOVISTAR ACCION </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_accion.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-accion.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>06 MOVISTAR COMEDIA </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_comedia.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-comedia.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>07 MOVISTAR DCINE </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_d_cine.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-dcine.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>08 MOVISTAR CINE Ñ </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_cine_espanol.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-dcine-espanol.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>09 MOVISTAR SERIES </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_series.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-series.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>10 MOVISTAR SERIES XTRA </title>        
 <urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
-<thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_series_xtra.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-series-xtra.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
