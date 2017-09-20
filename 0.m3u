@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="z-omitir",== CINE  ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR red] Cambia a Canal 0[/COLOR]
+http://192.168.0.24:1988/7/0/0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR green]ver canal #0[/COLOR]
+http://192.168.0.24:1988/6/0/0
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
