@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="z-omitir",== CINE  ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR red] Cambia a Canal 0[/COLOR]
+http://192.168.0.24:1988/7/0/0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/canal-0.png" Group-title="CINE",[COLOR green]ver canal #0[/COLOR]
+http://192.168.0.24:1988/6/0/0
+
+
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
+ 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="z-omitir",[COLOR green]== DOCUMENTALES ==[COLOR green]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/cazapesca.png" Group-title="DOCUMENTALES",[COLOR red] Cambia a Canal CAZAyPESCA HD[/COLOR]
+http://192.168.0.24:1988/7/0/54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/cazapesca.png" Group-title="DOCUMENTALES",#[COLOR green]ver canal CAZAyPESCA HD[/COLOR]
+http://192.168.0.24:1988/6/0/54
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/cazapesca.png" Group-title="DOCUMENTALES",[COLOR red] Cambia a Canal CAZAyPESCA[/COLOR]
+http://192.168.0.24:1988/7/0/55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://verdirectotv.tv/logos/cazapesca.png" Group-title="DOCUMENTALES",#[COLOR green]ver canal CAZAyPESCA[/COLOR]
+http://192.168.0.24:1988/6/0/55
+ 
+ 
+ 
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="DOCUMENTALES",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="DOCUMENTALES",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="DOCUMENTALES",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
+#EXTINF:2 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",[COLOR red] Cambia a Canal M.ESTRENOS HD[/COLOR]
+http://192.168.0.24:1988/7/0/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" Group-title="CINE",#[COLOR green]ver canal M.ESTRENO HD[/COLOR]
+http://192.168.0.24:1988/6/0/1
