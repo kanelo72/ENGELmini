@@ -18,8 +18,8 @@
 
 <item>
 <title>02 MOVISTAR ESTRENOS HD </title>        
-<urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve> Cambia canal
-<urlsolve>http://192.168.0.24:1988/6/0/1</urlsolve> VER Canal
+<urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve> <texto>Cambia a Canal</texto>
+<urlsolve>http://192.168.0.24:1988/6/0/1</urlsolve> <texto>Ver canal</texto>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
