@@ -19,7 +19,7 @@
 <item>
 <title>02 MOVISTAR ESTRENOS HD </title>        
 <urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve>
-<urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve>
+<urlsolve>http://192.168.0.24:1988/6/0/1</urlsolve>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
@@ -37,9 +37,9 @@ Doble Enlace</a>
 <title>04 MOVISTAR XTRA</title>     
 function links(url1,url2){window.open(url1);window.open(url2);}
 
-<a onclick="links('link1','link2');">
+<a onclick="links('http://192.168.0.24:1988/7/0/3','http://192.168.0.24:1988/6/0/3');">
 Doble Enlace</a>   
-<urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>
+
 <thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_xtra.png</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
