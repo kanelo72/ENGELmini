@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Cine movistar</title>
+<title>CINE MOVISTAR</title>
 <thumbnail>https://i2.wp.com/marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png</thumbnail>
-<fanart>https://www.reasonwhy.es/sites/default/files/cine-estudio-palomitas-espana-salas-reasonwhy.esjpg_.jpg</fanart>
+<fanart>http://www.clasificadostoluca.com/wp-content/uploads/2017/04/47D.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/cinemovistar.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>DEPORTES</title>
 <thumbnail>http://quierounentrenador.com/wp-content/uploads/2016/05/cinedeporte.png</thumbnail>
-<fanart></fanart>
+<fanart>https://i0.wp.com/www.allgrass.es/wp-content/uploads/2016/06/sports.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/deportes.xml</externallink>
 </item>
@@ -27,47 +27,47 @@
 <item>
 <title>DOCUMENTALES</title>
 <thumbnail>http://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png</thumbnail>
-<fanart></fanart>
+<fanart>http://animais.culturamix.com/blog/wp-content/gallery/caracteristicas-do-reino-animalia-2/Caracteristicas-do-Reino-Animalia-4.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/documentales.xml</externallink>
 </item>
 
 <item>
 <title>INFANTILES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i0.wp.com/frentefantasma.org/oficial/wp-content/uploads/2015/05/Serie-animadas.jpg</thumbnail>
+<fanart>https://solonickelodeon.files.wordpress.com/2011/01/dibujo50.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/infantiles.xml</externallink>
 </item>
  
  <item>
 <title>MUSICA</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.samsung.com/es/consumer-images/article/2013/aplicaciones-de-musica-en-los-televisores-samsung-smart-tv/aplicaciones_musica_smart_tv_379-0.jpg</thumbnail>
+<fanart>https://mdcreativedesign.files.wordpress.com/2011/01/musica1.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/musica.xml</externallink>
 </item>
 
  <item>
 <title>GENERALISTAS</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.tdtprofesional.com/media/wysiwyg/Menu_televisi_n_TDT.JPG</thumbnail>
+<fanart>http://www.mundo-r.com/sites/default/files/imce/TV/tv_familia_hd_generalistas_600.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/generalistas.xml</externallink>
 </item>
 
  <item>
 <title>NOTICIAS</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.freepik.com/iconos-gratis/informe-de-noticias-en-la-tv_318-39234.jpg</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/mujer-hermosa-del-redhead-de-las-noticias-tv-en-la-visualizaci%C3%B3n-3d-9222565.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/noticias.xml</externallink>
 </item>
 
  <item>
 <title>+ 18</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/50/PEGI18.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/5/50/PEGI18.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/mas18.xml</externallink>
 </item>

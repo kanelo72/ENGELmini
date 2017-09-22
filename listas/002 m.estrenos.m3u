@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:2 tvg-logo="http://verdirectotv.tv/logos/movistar-estrenos.png",[COLOR lime] 1[/COLOR] [COLOR red]= Cambiar canal en Deco Engel[/COLOR]
+http://192.168.0.24:1988/7/0/2
+#EXTINF:-1 tvg-logo="http://verdirectotv.tv/logos/movistar-estrenos.png",[COLOR lime] 2[/COLOR] [COLOR green]= Ver canal #0[/COLOR]
+http://192.168.0.24:1988/6/0/2
