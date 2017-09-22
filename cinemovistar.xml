@@ -3,7 +3,7 @@
 <item>
 <title>01 #0 </title>   
 <link>http://ignoreme</link>  
-	<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/listas/000- #0.m3u</externallink>
+	<externallink>https://raw.githubusercontent.com/kanelo72/ENGELmini/master/listas/000-0.m3u</externallink>
 <thumbnail>http://vercanalestv.com/logos/canal-0.png</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
@@ -32,19 +32,7 @@
 
 <item>
 <title>04 MOVISTAR XTRA</title>   
-	<channels>
- 
-<channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Deportes Español[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
-</channel>
-  </channels>
-function links(url1,url2){window.open(url1);window.open(url2);}
-<a onclick="links('http://192.168.0.24:1988/7/0/3','http://192.168.0.24:1988/6/0/3');">
-Doble Enlace</a>   
+<urlsolve>rtmp://178.132.6.125/static/bein1</urlsolve>	  
 <thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_xtra.png</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
