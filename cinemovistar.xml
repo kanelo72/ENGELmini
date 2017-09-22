@@ -26,9 +26,10 @@
 
 <item>
 <title>03 MOVISTAR ESTRENOS </title>
-function links(url1,url2){(url1);(url2);}
-<a onclick="links('http://192.168.0.24:1988/7/0/0','http://192.168.0.24:1988/6/0/0');">
-Doble Enlace</a>
+<texto>Cambia a Canal</texto>
+<externallink>http://192.168.0.24:1988/7/0/2</externallink>
+<texto>Ver canal</texto>
+<externallink>http://192.168.0.24:1988/7/0/2</externallink>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
@@ -36,10 +37,8 @@ Doble Enlace</a>
 <item>
 <title>04 MOVISTAR XTRA</title>     
 function links(url1,url2){window.open(url1);window.open(url2);}
-
 <a onclick="links('http://192.168.0.24:1988/7/0/3','http://192.168.0.24:1988/6/0/3');">
 Doble Enlace</a>   
-
 <thumbnail>https://www.lyngsat.com/logo/tv/mm/movistar_es_xtra.png</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
