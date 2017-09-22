@@ -17,25 +17,39 @@
   </channels>
 
 <item>
-<title>02 MOVISTAR ESTRENOS HD </title>        
-<urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve> <texto>Cambia a Canal</texto>
-<urlsolve>http://192.168.0.24:1988/6/0/1</urlsolve> <texto>Ver canal</texto>
+<title>02 MOVISTAR ESTRENOS HD </title> 
+	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Cambia a canal[/COLOR]</name>       
+	<urlsolve>http://192.168.0.24:1988/7/0/1</urlsolve> <texto>Cambia a Canal</texto>
+	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Ver Canal[/COLOR]</name>
+	<urlsolve>http://192.168.0.24:1988/6/0/1</urlsolve> <texto>Ver canal</texto>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
 <title>03 MOVISTAR ESTRENOS </title>
-<texto>Cambia a Canal</texto>
-<externallink>http://192.168.0.24:1988/7/0/2</externallink>
-<texto>Ver canal</texto>
-<externallink>http://192.168.0.24:1988/7/0/2</externallink>
+<link>http://ignoreme</link>
+	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Cambia a canal[/COLOR]</name>
+	<externallink>http://192.168.0.24:1988/7/0/2</externallink>
+<link>http://ignoreme</link>
+	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Ver Canal[/COLOR]</name>
+	<externallink>http://192.168.0.24:1988/7/0/2</externallink>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
 </item>
 
 <item>
-<title>04 MOVISTAR XTRA</title>     
+<title>04 MOVISTAR XTRA</title>   
+	<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Deportes Español[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
 function links(url1,url2){window.open(url1);window.open(url2);}
 <a onclick="links('http://192.168.0.24:1988/7/0/3','http://192.168.0.24:1988/6/0/3');">
 Doble Enlace</a>   
