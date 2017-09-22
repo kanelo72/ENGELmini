@@ -20,11 +20,9 @@
 
 <item>
 <title>03 MOVISTAR ESTRENOS </title>
-<link>http://ignoreme</link>
-	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Cambia a canal[/COLOR]</name>
+<link>http://cambiacanal</link>
 	<externallink>http://192.168.0.24:1988/7/0/2</externallink>
-<link>http://ignoreme</link>
-	<name>[COLOR cyan][COLOR  lime]•   [/COLOR] Ver Canal[/COLOR]</name>
+<link>http://ver canal</link>
 	<externallink>http://192.168.0.24:1988/7/0/2</externallink>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2016/02/pelis-magnet.png</fanart>
