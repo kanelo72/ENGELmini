@@ -19,3 +19,9 @@ rtmp://178.132.6.125/static/bein8
 rtmp://178.132.6.125/static/bein9
 #EXTINF:-1, BeinSports 10
 rtmp://178.132.6.125/static/bein10
+#EXTINF:-1, BeinSports real 1
+acestream://5291a22aaee8cb2e2d28f655d95b14ab3aa999cb
+#EXTINF:-1, BeinSports real 2
+acestream://fecdc30d2a1f8b8d875f70c92902e3e247c7c87c
+#EXTINF:-1, BeinSports real 3
+acestream://e5cb58e5b82976076316606ef71e92e97ce863d7
